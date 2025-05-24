@@ -1,0 +1,5 @@
+Game Result
+xianshu: 1 points
+zhang: 0 points
+Winner: xianshu
+------------------------------
